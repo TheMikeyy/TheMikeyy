@@ -2,7 +2,7 @@
 I am a UI Designer & Web Developer within that,<br>I am a Student too.<br>I am currently focused on doing academic projects.<br>Also, I am always ready to collaborate and help anybody with their work.
 
 
-## Socials: 
+# Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com) 
