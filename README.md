@@ -5,4 +5,6 @@ I build **user interfaces and web applications** as a student developer focused 
 * 🌱 **Learning:** Advanced front-end design systems and backend integration.
 * 🤝 **Reach me:** Let's collaborate and help each other work on exciting projects!
 
-![C](https://shields.io) ![CSS3](https://shields.io) ![Figma](https://shields.io) ![Git](https://shields.io) ![HTML5](https://shields.io) ![MongoDB](https://shields.io) ![MySQL](https://shields.io) ![PHP](https://shields.io) ![Python](https://shields.io)
+<br />
+
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
