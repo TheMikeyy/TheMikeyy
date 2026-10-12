@@ -7,14 +7,12 @@ I build **user interfaces and web applications** as a student developer focused 
 
 <br />
 
-<p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Figma" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="Python" />
-</p>
+[![C](https://demolab.com)](https://github.com)
+[![CSS3](https://demolab.com)](https://github.com)
+[![Figma](https://demolab.com)](https://github.com)
+[![Git](https://demolab.com)](https://github.com)
+[![HTML5](https://demolab.com)](https://github.com)
+[![MongoDB](https://demolab.com)](https://github.com)
+[![MySQL](https://demolab.com)](https://github.com)
+[![PHP](https://demolab.com)](https://github.com)
+[![Python](https://demolab.com)](https://github.com)
