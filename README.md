@@ -7,4 +7,14 @@ I build **user interfaces and web applications** as a student developer focused 
 
 <br />
 
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<p align="left">
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Figma" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="PHP" />
+  <img src="https://shields.io" alt="Python" />
+</p>
